@@ -1,1 +1,3 @@
 # newPythonRepo
+
+pls contrib thx
